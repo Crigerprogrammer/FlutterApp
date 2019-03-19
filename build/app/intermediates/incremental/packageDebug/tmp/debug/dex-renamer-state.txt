@@ -1,0 +1,4 @@
+#Tue Mar 19 00:57:33 CST 2019
+base.0=C\:\\Users\\crige\\Desktop\\Apps\\hola_mundo\\build\\app\\intermediates\\transforms\\dexMerger\\debug\\0
+path.0=classes.dex
+renamed.0=classes.dex
